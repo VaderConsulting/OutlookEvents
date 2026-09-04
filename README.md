@@ -17,6 +17,10 @@ This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Appl
 
 Open `OutlookEvents.sln` in Visual Studio 2008. Outlook should be installed so the Microsoft.Office.Interop.Outlook reference resolves.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `OutlookEvents`). Assembly copyright 2008.
