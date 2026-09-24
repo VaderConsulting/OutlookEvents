@@ -1,6 +1,6 @@
 # OutlookEvents
 
-This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Application COM object and listens for `NewMailEx`. For each new item it writes sender, display name, CC, subject, body, and attachment count to the console. It is Dave Robinson's working copy from Historical Dev, kept as a COM-automation counterpart to the VSTO mail add-ins.
+This is a Visual Studio 2008 VB.NET WinForms program that starts an Outlook Application COM object and listens for `NewMailEx`. For each new item it writes sender, display name, CC, subject, body, and attachment count to the console. It is my working copy from Historical Dev, kept as a COM-automation counterpart to the VSTO mail add-ins.
 
 **Source last updated:** 2008-02-26  
 **Language:** VB.NET  
