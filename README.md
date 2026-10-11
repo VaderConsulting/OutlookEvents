@@ -27,4 +27,4 @@ From Dave Robinson's Historical Dev archive (OneDrive folder `OutlookEvents`). A
 
 ## License
 
-MIT License. Copyright (c) 2026 VaderConsulting.
+MIT License. Copyright (c) 2026 Vader Consulting.
